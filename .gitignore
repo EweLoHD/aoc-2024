@@ -2,3 +2,6 @@
 /input/*.txt
 .idea
 Cargo.lock
+
+.aoc_tiles/*
+!.aoc_tiles/tiles/

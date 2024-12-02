@@ -1,5 +1,8 @@
 # Template for solving Advent of Code puzzles in Rust with RustRover
 
+<!-- AOC TILES BEGIN -->
+<!-- AOC TILES END -->
+
 ## Usage
 
 1. Create a new project from the template repository:
